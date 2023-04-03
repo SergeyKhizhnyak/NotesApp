@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="cancel_des">cancel items selection</string>
+    <string name="items_count_label">Selected:</string>
+    <string name="count">0</string>
+    <string name="select_all_des">select all items</string>
+    <string name="delete_des">delete selected elements</string>
+    <string name="add_button_des">open AddNote Activity</string>
+    <string name="symbol_count_label">symbol count</string>
+    <string name="header">Header</string>
+    <string name="body">Some text</string>
+    <string name="previous_page_des">return to the previous page</string>
+    <string name="save_page_des">save note to database</string>
+</resources>
